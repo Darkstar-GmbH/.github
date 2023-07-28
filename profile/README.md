@@ -24,7 +24,7 @@ We are currently working on a [Module](https://www.powershellgallery.com/) for t
 
 # Contribution
 
-If you are interested in what we are doing you can of course every time leave comments or drop us a line per [mail](mailto:admin@darkstar-developments.io). We highly appreciate your interest in our efforts and projects and would also like to team up. Don't hesitate to write us.
+If you are interested in what we are doing you can of course every time leave comments in the [discussion forum](https://github.com/orgs/Darkstar-GmbH/discussions) or drop us a line per [mail](mailto:admin@darkstar-developments.io). We highly appreciate your interest in our efforts and projects and would also like to team up. Don't hesitate to write us.
 
 # Forks and Stars
 
