@@ -20,7 +20,7 @@ We have furthermore a [pull request](https://github.com/PowerShell/PSReadLine/pu
 
 # Next to come
 
-We are currently working on a Microsoft Powershell module that will greatly enhance the TAB completion experience. We will announce it as soon as it gets ready.
+We are currently working on a [Module](https://www.powershellgallery.com/) for the [Microsoft Powershell](https://github.com/PowerShell/PowerShell) that will greatly enhance the TAB completion experience. We will announce it as soon as it gets ready.
 
 # Contribution
 
