@@ -1,6 +1,6 @@
 # Darkstar GmbH
 
-The Darkstar Research and Developments GmbH was founded by Ralf Rastlos ([@vollsynthetik](https://github.com/vollsynthetik)) in 2022. It's aim is to research new ways and possibilities in IT security and software development.
+The Darkstar Research and Developments GmbH was founded by Ralf Rastlos ([@vollsynthetik](https://github.com/vollsynthetik)) in 2022. Its aim is to research new ways and possibilities in IT security and software development.
 
 # Current Projects
 
